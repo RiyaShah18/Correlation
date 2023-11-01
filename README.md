@@ -1,2 +1,2 @@
 # Correlation
-Data cleaning followed by calculating correlation between various features of movies provided in the dataset 'movies.csv' using Python Pandas, Numpy and Matplotlib. 
+Here, data cleaning has been performed on the dataset 'movies.csv' using Python libraries such as Pandas and Numpy. Afterward, I have calculated the correlations between different movie features. Finally, visualizing the results using Matplotlib.
